@@ -5,10 +5,7 @@ I'm a native iOS developer, my passion is to develop various types of iOS applic
 <a href="https://swift.org"><img src="https://github.com/028928768/028928768/blob/master/Logos/swift-logo.png" alt="Swift" width="50"/></a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"><img src="https://github.com/028928768/028928768/blob/master/Logos/objective-C-logo.png" alt="Objective-C" width="50"/></a> <a href="https://kotlinlang.org/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" width="50"/></a> <a href="https://www.java.com/en/"><img src="https://sdtimes.com/wp-content/uploads/2018/03/jW4dnFtA_400x400.jpg" alt="Java" width="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" width="50"/></a> <a href="https://www.mysql.com"><img src="https://github.com/028928768/028928768/blob/master/Logos/SQL-logo.jpg" alt="mySQL" width="50"/></a> 
 
 I also design and develop Website by using these languages and frameworks:
-- Node.js
-- HTML
-- CSS
-- Redux
-- React
-- MobX
-Most of the applications I have developed were integrated by machine learning, OCR, RESTFUL APIs, Cloud Database, etc.
+
+<a href="https://nodejs.org/en/"><img src="https://github.com/028928768/028928768/blob/master/Logos-2/node-js-logo.png" alt="Node.js" width="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/028928768/028928768/blob/master/Logos-2/html-logo.png" alt="Html" width="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/028928768/028928768/blob/master/Logos-2/css-logo.jpg" alt="CSS" width="50"/></a> <a href="https://reactjs.org"><img src="https://github.com/028928768/028928768/blob/master/Logos-2/react-logo.png" alt="React" width="50"/></a> <a href="https://redux.js.org/basics/usage-with-react"><img src="https://github.com/028928768/028928768/blob/master/Logos-2/redux-logo.png" alt="Redux" width="50"/></a> <a href="https://mobx.js.org/README.html"><img src="https://github.com/028928768/028928768/blob/master/Logos-2/mobx-logo.png" alt="MobX" width="50"/></a>
+
+Most of the applications I have developed were integrated by machine learning, OCR, RESTFUL APIs,Firebase, Cloud Database, etc.
