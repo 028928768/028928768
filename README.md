@@ -1,7 +1,8 @@
 ### Kantachat Puagkajee
 
 I'm a native iOS developer, my passion is to develop various types of iOS application while expanding the following programming languages proficiency:
-![Swift Logo](https://github.com/028928768/028928768/blob/master/Logos/swift-logo.png)
+
+<a href="https://swift.org"><img src="https://github.com/028928768/028928768/blob/master/Logos/swift-logo.png" alt="Swift" width="50"/></a>
 - Objective-C
 - Kotlin
 - Javascript
