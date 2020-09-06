@@ -1,12 +1,12 @@
 ### Kantachat Puagkajee
 
 I'm a native iOS developer, my passion is to develop various types of iOS application while expanding the following programming languages proficiency:
-- Swift
+![Swift Logo](https://github.com/028928768/028928768/blob/master/Logos/swift-logo.png)
 - Objective-C
 - Kotlin
 - Javascript
 - SQL
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 I also design and develop Website by using these languages and frameworks:
 - Node.js
