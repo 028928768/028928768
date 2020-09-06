@@ -6,6 +6,7 @@ I'm a native iOS developer, my passion is to develop various types of iOS applic
 - Kotlin
 - Javascript
 - SQL
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 I also design and develop Website by using these languages and frameworks:
 - Node.js
